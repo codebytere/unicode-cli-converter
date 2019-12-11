@@ -3,8 +3,12 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "unicode-convert": "node ./index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "prettier index.js",
+    "lint:write": "prettier --write index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +27,8 @@
   "homepage": "https://github.com/codebytere/unicode-cli-translator#readme",
   "dependencies": {
     "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
   }
 }
