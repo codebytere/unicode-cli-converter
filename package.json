@@ -1,0 +1,27 @@
+{
+  "name": "unicode-cli-translator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebytere/unicode-cli-translator.git"
+  },
+  "keywords": [
+    "node.js",
+    "cli",
+    "unicode"
+  ],
+  "author": "Shelley Vohr <shelley.vohr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codebytere/unicode-cli-translator/issues"
+  },
+  "homepage": "https://github.com/codebytere/unicode-cli-translator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
