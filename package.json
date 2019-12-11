@@ -1,5 +1,5 @@
 {
-  "name": "unicode-cli-translator",
+  "name": "unicode-cli-converter",
   "version": "0.0.1",
   "description": "A CLI tool to automatically convert between text styles.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codebytere/unicode-cli-translator.git"
+    "url": "git+https://github.com/codebytere/unicode-cli-converter.git"
   },
   "keywords": [
     "node.js",
@@ -22,9 +22,9 @@
   "author": "Shelley Vohr <shelley.vohr@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codebytere/unicode-cli-translator/issues"
+    "url": "https://github.com/codebytere/unicode-cli-converter/issues"
   },
-  "homepage": "https://github.com/codebytere/unicode-cli-translator#readme",
+  "homepage": "https://github.com/codebytere/unicode-cli-converter#readme",
   "dependencies": {
     "inquirer": "^7.0.0"
   },
