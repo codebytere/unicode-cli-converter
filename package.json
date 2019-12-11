@@ -1,6 +1,6 @@
 {
   "name": "unicode-cli-converter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A CLI tool to automatically convert between text styles.",
   "main": "index.js",
   "bin": {
